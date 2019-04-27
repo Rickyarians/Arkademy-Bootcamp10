@@ -20,6 +20,7 @@
   5. Di browser, navigate to  `https://localhost:port/quickcount
 
 ### Paduan Database
+ * upload database ke mysql dalam folder clone ini
 
   
 ### Pemrograman  yang dipakai :
@@ -32,5 +33,5 @@
 ### Database yang dipakai :
    * MySQLi
  
-### Stack yang digunakan:
+
   
