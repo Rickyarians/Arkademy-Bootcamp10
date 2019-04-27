@@ -3,7 +3,9 @@
 ## Soal NO 1 - 5 
   * Berisikan Fungsi Fungsi sesuai dengan instruksi soal
   * untuk merubah nilai hasil dapat merubah Parameter di fungsinya maupun variabel
+  * Menggunakan Bahasa PHP
 
+## Soal No 6
 
 ### Software Yang dibutuhkan
   * Browser(Google Chrome, Mozila, atau yang lainnya)
